@@ -1,4 +1,6 @@
+Non-Conflicting line1
 Line 1 of code
 Line x of code
 
 Sample code to be cherrypicked
+Conflicting line1
